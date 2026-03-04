@@ -2,18 +2,19 @@
 ## Morning Planning
 <img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" height="500" align="right">
 
-## Task List
+Task List
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
 - [ ] Learn daily.
 
-## Unordered List
+Unordered List
 - Item 1
 - Item 2
 - hellooo
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png" width="100" align="right">
 
-## Ordered List
+Ordered List
 1. Step 1
 2. Step 2
 3. Step 3
